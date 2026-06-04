@@ -1,2 +1,2 @@
 # Estudos
-Reciclagem de conhecimentos práticos em desenvolvimento de software
+Reciclagem de conhecimentos práticos e em fundamentos da disciplina de desenvolvimento de software.
