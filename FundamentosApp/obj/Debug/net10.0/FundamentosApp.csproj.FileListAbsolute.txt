@@ -1,0 +1,15 @@
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.AssemblyInfoInputs.cache
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.AssemblyInfo.cs
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.csproj.CoreCompileInputs.cache
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.sourcelink.json
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\bin\Debug\net10.0\FundamentosApp.exe
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\bin\Debug\net10.0\FundamentosApp.deps.json
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\bin\Debug\net10.0\FundamentosApp.runtimeconfig.json
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\bin\Debug\net10.0\FundamentosApp.dll
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\bin\Debug\net10.0\FundamentosApp.pdb
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.dll
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\refint\FundamentosApp.dll
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.pdb
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\FundamentosApp.genruntimeconfig.cache
+C:\Estudos\Fundamentos\Estudos\FundamentosApp\obj\Debug\net10.0\ref\FundamentosApp.dll
