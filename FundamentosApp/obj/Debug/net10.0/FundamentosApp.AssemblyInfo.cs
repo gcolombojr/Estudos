@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a4688a31f048fa18e420750d874e1a15a1ca15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c88f498f40561ce872f32026fd8a69b35a5d466")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

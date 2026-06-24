@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Fundamentos\\Estudos\\FundamentosApp\\FundamentosApp.csproj": {}
+    "/Users/gcolombojr/Sources/Estudos/FundamentosApp/FundamentosApp.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Fundamentos\\Estudos\\FundamentosApp\\FundamentosApp.csproj": {
+    "/Users/gcolombojr/Sources/Estudos/FundamentosApp/FundamentosApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Fundamentos\\Estudos\\FundamentosApp\\FundamentosApp.csproj",
+        "projectUniqueName": "/Users/gcolombojr/Sources/Estudos/FundamentosApp/FundamentosApp.csproj",
         "projectName": "FundamentosApp",
-        "projectPath": "C:\\Estudos\\Fundamentos\\Estudos\\FundamentosApp\\FundamentosApp.csproj",
-        "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Fundamentos\\Estudos\\FundamentosApp\\obj\\",
+        "projectPath": "/Users/gcolombojr/Sources/Estudos/FundamentosApp/FundamentosApp.csproj",
+        "packagesPath": "/Users/gcolombojr/.nuget/packages/",
+        "outputPath": "/Users/gcolombojr/Sources/Estudos/FundamentosApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gilbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/gcolombojr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

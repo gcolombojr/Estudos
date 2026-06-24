@@ -16,7 +16,12 @@ Console.WriteLine($"Quantidade de itens após remoção: {fila.ObterQuantidade()
 fila.Enqueue("Item D");
 Console.WriteLine($"Quantidade de itens após adicionar Item D: {fila.ObterQuantidade()}");
 
-while (fila.ObterQuantidade() > 0)
+ViewItemsRemoved(fila);
+
+static void ViewItemsRemoved(Fila<string> fila)
 {
-    Console.WriteLine($"Removendo {fila.Dequeue()} - itens restantes: {fila.ObterQuantidade()}");
+    while (fila.ObterQuantidade() > 0)
+    {
+        Console.WriteLine($"Removendo {fila.Dequeue()} - itens restantes: {fila.ObterQuantidade()}");
+    }
 }
