@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio temporary files
+*.vs/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Rider
+.idea/
+*.sln.iml
